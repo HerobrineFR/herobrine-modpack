@@ -1,0 +1,23 @@
+[
+    {
+        "name": "DB_HOST",
+        "regex": "^(?!\\s*$).+",
+        "description": "Hostname of the database.",
+        "message": "DB_HOST cannot be empty.",
+        "example": "localhost"
+    },
+    {
+        "name": "DB_PORT",
+        "regex": "^\\d{2,5}$",
+        "description": "Port number of the database.",
+        "message": "DB_PORT must be a valid port number (e.g., 5432).",
+        "example": "5432"
+    },
+    {
+        "name": "API_KEY",
+        "regex": "^[a-zA-Z0-9]{32}$",
+        "description": "API key for external service.",
+        "message": "API_KEY must be a 32 character alphanumeric string.",
+        "example": "1234abcd5678efgh9012ijkl3456mnop"
+    }
+]
