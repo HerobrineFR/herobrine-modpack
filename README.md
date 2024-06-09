@@ -5,5 +5,5 @@ Modpack officiel de Herobrine.fr.
 
 ```bash
 pip install -r requirements.txt
-python scripts/setup_env.py
+python scripts/env_utils/setup_env.py
 ```
