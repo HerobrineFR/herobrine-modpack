@@ -1,0 +1,226 @@
+{
+  "temp/mrpack/overrides/config": {
+    "status": "MIXE",
+    "type": "directory"
+  },
+  "temp/mrpack/overrides/config/fancymenu": {
+    "status": "INCLUDE",
+    "type": "directory"
+  },
+  "temp/mrpack/overrides/config/sbcou": {
+    "status": "MIXE",
+    "type": "directory"
+  },
+  "temp/mrpack/overrides/config/sbcou/versions": {
+    "status": "INCLUDE",
+    "type": "directory"
+  },
+  "temp/mrpack/overrides/config/sbcou/excluded_file_paths.json": {
+    "status": "INCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/sbcou/file_extension_handling.json": {
+    "status": "INCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/sbcou/ignored_option_paths.json": {
+    "status": "INCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/sbcou/specific_file_handling.json": {
+    "status": "INCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/sbcou/unparsable_files.json": {
+    "status": "INCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/sbcou/versions.json": {
+    "status": "INCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/options.txt": {
+    "status": "INCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/servers.dat": {
+    "status": "INCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/fabric": {
+    "status": "EXCLUDE",
+    "type": "directory"
+  },
+  "temp/mrpack/overrides/config/NoChatReports": {
+    "status": "EXCLUDE",
+    "type": "directory"
+  },
+  "temp/mrpack/overrides/config/presencefootsteps": {
+    "status": "EXCLUDE",
+    "type": "directory"
+  },
+  "temp/mrpack/overrides/config/respackopts": {
+    "status": "EXCLUDE",
+    "type": "directory"
+  },
+  "temp/mrpack/overrides/config/sbcou/dev": {
+    "status": "EXCLUDE",
+    "type": "directory"
+  },
+  "temp/mrpack/overrides/config/sbcou/current_version.txt": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/betterf3.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/betterpingdisplay.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/capes.json5": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/chat_heads.json5": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/continuity.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/cubes-without-borders.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/debugify.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/dynamic_fps.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/enhanced_bes.properties": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/entityculling.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/entity_model_features.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/entity_texture_features.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/etf_warnings.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/ferritecore.mixin.properties": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/firstperson.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/forgeconfigapiport.toml": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/immediatelyfast.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/iris-excluded.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/iris.properties": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/lambdynlights.toml": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/languagereload.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/libjf-config-core-v2.json5": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/libjf-translate-v1.json5": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/libjf-web-v1.json5": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/lithium.properties": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/modelfix-client.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/modmenu.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/moreculling.toml": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/nuit-config.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/rrls.toml": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/skinlayers.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/sodium-extra-options.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/sodium-extra.properties": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/sodium-fingerprint.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/sodium-mixins.properties": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/sodium-options.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/yacl.json5": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/zoomify.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  }
+}
