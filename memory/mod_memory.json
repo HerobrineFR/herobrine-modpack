@@ -1,0 +1,370 @@
+{
+  "betterf3": {
+    "id": "betterf3",
+    "name": "BetterF3",
+    "description": "Replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD.",
+    "version": "14.0.0",
+    "client_env": "required"
+  },
+  "betterpingdisplay": {
+    "id": "betterpingdisplay",
+    "name": "Better Ping Display",
+    "description": "Shows the actual ping number instead of just bars in the player list!",
+    "version": "1.1.1",
+    "client_env": "required"
+  },
+  "controlling": {
+    "id": "controlling",
+    "name": "Controlling",
+    "description": "Adds the ability to search for keybinds using their name in the KeyBinding menu, this allows players to easily find a key binding in the menu.",
+    "version": "23.0.2",
+    "client_env": "required"
+  },
+  "forgeconfigapiport": {
+    "id": "forgeconfigapiport",
+    "name": "Forge Config API Port",
+    "description": "NeoForge's & Forge's config systems provided to other modding ecosystems. Designed for a multiloader architecture.",
+    "version": "21.5.1",
+    "client_env": "required"
+  },
+  "immediatelyfast": {
+    "id": "immediatelyfast",
+    "name": "ImmediatelyFast",
+    "description": "Speed up and optimize immediate mode rendering in Minecraft",
+    "version": "1.9.5+1.21.5",
+    "client_env": "required"
+  },
+  "nochatreports": {
+    "id": "nochatreports",
+    "name": "No Chat Reports",
+    "description": "Strips cryptographic signatures from player messages, making it impossible to track and associate them with your Mojang/Microsoft account, as well as use Player Chat Reporting feature.",
+    "version": "1.21.5-v2.12.0",
+    "client_env": "required"
+  },
+  "presencefootsteps": {
+    "id": "presencefootsteps",
+    "name": "Presence Footsteps",
+    "description": "An overly complicated sound mod.",
+    "version": "1.11.0+1.21.5",
+    "client_env": "optional"
+  },
+  "searchables": {
+    "id": "searchables",
+    "name": "Searchables",
+    "description": "A library mod to facilitate adding search bars with auto complete and search types.",
+    "version": "1.0.2",
+    "client_env": "required"
+  },
+  "zoomify": {
+    "id": "zoomify",
+    "name": "Zoomify",
+    "description": "A zoom mod with infinite customizability.",
+    "version": "2.14.2+1.21.3",
+    "client_env": "required"
+  },
+  "chat_heads": {
+    "id": "chat_heads",
+    "name": "Chat Heads",
+    "description": "See who are you chatting with!\nThis mod adds player heads next to their chat messages.",
+    "version": "0.13.18",
+    "client_env": "required"
+  },
+  "cloth-config": {
+    "id": "cloth-config",
+    "name": "Cloth Config v17",
+    "description": "An API for config screens.",
+    "version": "18.0.145",
+    "client_env": "required"
+  },
+  "continuity": {
+    "id": "continuity",
+    "name": "Continuity",
+    "description": "Continuity is a Fabric mod that allows resource packs that use the OptiFine connected textures format, OptiFine emissive textures format (only for blocks and item models), or OptiFine custom block layers format to work without OptiFine.",
+    "version": "3.0.1-test.4+1.21.5",
+    "client_env": "required"
+  },
+  "cubes-without-borders": {
+    "id": "cubes-without-borders",
+    "name": "Cubes Without Borders",
+    "description": "Allows you to play Minecraft in a borderless fullscreen window.",
+    "version": "3.0.0+mc1.21.5",
+    "client_env": "required"
+  },
+  "dynamic_fps": {
+    "id": "dynamic_fps",
+    "name": "Dynamic FPS",
+    "description": "Reduce resource usage while Minecraft is in the background or idle.",
+    "version": "3.9.4",
+    "client_env": "required"
+  },
+  "entity_model_features": {
+    "id": "entity_model_features",
+    "name": "Entity Model Features",
+    "description": "This is an expansion of the ETF mod, it adds support for OptiFine format Custom Entity Model (CEM) resource packs.\nWhile still allowing you to disable this to use a different model mod :)",
+    "version": "2.4.3",
+    "client_env": "required"
+  },
+  "entity_texture_features": {
+    "id": "entity_texture_features",
+    "name": "Entity Texture Features",
+    "description": "Adds support for resource-pack driven features for entity textures including some OptiFine features\nSupports OptiFine:\n - Random & Custom textures\n - Emissive textures\nWith more features such as:\n - Blinking textures\n - Player Skin support",
+    "version": "6.2.13",
+    "client_env": "required"
+  },
+  "entityculling": {
+    "id": "entityculling",
+    "name": "EntityCulling",
+    "description": "This mod uses async path-tracing to hide Tiles/Entities that are not visible.",
+    "version": "1.7.4",
+    "client_env": "required"
+  },
+  "fabric-api": {
+    "id": "fabric-api",
+    "name": "Fabric API",
+    "description": "Core API module providing key hooks and intercompatibility features.",
+    "version": "0.125.3+1.21.5",
+    "client_env": "required"
+  },
+  "fabric-language-kotlin": {
+    "id": "fabric-language-kotlin",
+    "name": "Fabric Language Kotlin",
+    "description": "Fabric language module for Kotlin.",
+    "version": "1.13.3+kotlin.2.1.21",
+    "client_env": "required"
+  },
+  "fancymenu": {
+    "id": "fancymenu",
+    "name": "FancyMenu",
+    "description": "Customize Minecraft's menus with ease!",
+    "version": "3.5.1",
+    "client_env": "required"
+  },
+  "ferritecore": {
+    "id": "ferritecore",
+    "name": "FerriteCore",
+    "description": "Reduces memory usage",
+    "version": "8.0.0",
+    "client_env": "required"
+  },
+  "firstperson": {
+    "id": "firstperson",
+    "name": "FirstPerson",
+    "description": "Enables the third person Model in firstperson",
+    "version": "2.4.9",
+    "client_env": "optional"
+  },
+  "iris": {
+    "id": "iris",
+    "name": "Iris",
+    "description": "A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs",
+    "version": "1.8.11+mc1.21.5",
+    "client_env": "required"
+  },
+  "konkrete": {
+    "id": "konkrete",
+    "name": "Konkrete",
+    "description": "Core library for Keksuccino's mods.",
+    "version": "1.9.11",
+    "client_env": "required"
+  },
+  "lambdynlights": {
+    "id": "lambdynlights",
+    "name": "LambDynamicLights",
+    "description": "The most feature-complete dynamic lighting mod for Fabric.",
+    "version": "4.2.6+1.21.5",
+    "client_env": "required"
+  },
+  "languagereload": {
+    "id": "languagereload",
+    "name": "Language Reload",
+    "description": "Reduces load times and adds fallbacks for languages.",
+    "version": "1.7.3+1.21.5",
+    "client_env": "required"
+  },
+  "libjf": {
+    "id": "libjf",
+    "name": "LibJF",
+    "description": "Library mod by JFronny",
+    "version": "3.18.5",
+    "client_env": "required"
+  },
+  "lithium": {
+    "id": "lithium",
+    "name": "Lithium",
+    "description": "Lithium is a free and open-source optimization mod for Minecraft which makes a wide range of performance improvements to the game.",
+    "version": "0.16.2+mc1.21.5",
+    "client_env": "required"
+  },
+  "melody": {
+    "id": "melody",
+    "name": "Melody",
+    "description": "OpenAL-based library mod to play background music.",
+    "version": "1.0.11",
+    "client_env": "required"
+  },
+  "modelfix": {
+    "id": "modelfix",
+    "name": "Model Gap Fix",
+    "description": "Removes small gaps in item and block models",
+    "version": "1.21.5-1.12",
+    "client_env": "required"
+  },
+  "modmenu": {
+    "id": "modmenu",
+    "name": "Mod Menu",
+    "description": "Adds a mod menu to view the list of mods you have installed.",
+    "version": "14.0.0-rc.2",
+    "client_env": "required"
+  },
+  "moreculling": {
+    "id": "moreculling",
+    "name": "More Culling",
+    "description": "Processes main resources.",
+    "version": "1.3.1",
+    "client_env": "required"
+  },
+  "placeholder-api": {
+    "id": "placeholder-api",
+    "name": "Placeholder API",
+    "description": "Simple api for mods allowing for user friendly formatting and universal placeholders!",
+    "version": "2.6.4+1.21.5",
+    "client_env": "required"
+  },
+  "polytone": {
+    "id": "polytone",
+    "name": "Polytone",
+    "description": "Your Resource Packs Best Friend",
+    "version": "1.21.5-3.4.2",
+    "client_env": "required"
+  },
+  "respackopts": {
+    "id": "respackopts",
+    "name": "Resource Pack Options",
+    "description": "Config menus for resource packs",
+    "version": "4.13.1",
+    "client_env": "required"
+  },
+  "rrls": {
+    "id": "rrls",
+    "name": "Remove Reloading Screen",
+    "description": "Makes resource packs load in the background, allowing you to do other things while waiting!",
+    "version": "5.1.6+mc1.21.5-fabric",
+    "client_env": "required"
+  },
+  "skinlayers3d": {
+    "id": "skinlayers3d",
+    "name": "3d-Skin-Layers",
+    "description": "Renders the player skin layer in 3d",
+    "version": "1.7.5",
+    "client_env": "optional"
+  },
+  "sodium-extra": {
+    "id": "sodium-extra",
+    "name": "Sodium Extra",
+    "description": "Features that shouldn't be in Sodium.",
+    "version": "0.6.3+mc1.21.5",
+    "client_env": "required"
+  },
+  "sodium": {
+    "id": "sodium",
+    "name": "Sodium",
+    "description": "Sodium is a powerful rendering engine for Minecraft which greatly improves frame rates and micro-stutter, while fixing many graphical issues",
+    "version": "0.6.13+mc1.21.5",
+    "client_env": "required"
+  },
+  "yet_another_config_lib_v3": {
+    "id": "yet_another_config_lib_v3",
+    "name": "YetAnotherConfigLib",
+    "description": "YetAnotherConfigLib (yacl) is just that. A builder-based configuration library for Minecraft.",
+    "version": "3.6.6+1.21.5-fabric",
+    "client_env": "required"
+  },
+  "nuit": {
+    "id": "nuit",
+    "name": "Nuit",
+    "description": "Adds custom skybox support to Minecraft",
+    "client_env": "required"
+  },
+  "sbcou-core": {
+    "id": "sbcou-core",
+    "name": "Sbcou",
+    "description": "The description of your mod. \nAccepts multilines.",
+    "client_env": "required"
+  },
+  "sbcou-dev-gui": {
+    "id": "sbcou-dev-gui",
+    "name": "Sbcou",
+    "description": "The description of your mod. \nAccepts multilines.",
+    "client_env": "required"
+  },
+  "animatica": {
+    "id": "animatica",
+    "name": "Animatica",
+    "description": "Allow for animating more game textures using the MCPatcher/OptiFine animation format",
+    "version": "0.6.1+1.21",
+    "client_env": "required"
+  },
+  "capes": {
+    "id": "capes",
+    "name": "Capes",
+    "description": "A mod that lets you use capes from Optifine, LabyMod, Cosmetica, Wynntils, Capes++, and the MinecraftCapes Mod.",
+    "version": "1.5.4+1.21",
+    "client_env": "required"
+  },
+  "citresewn": {
+    "id": "citresewn",
+    "name": "CIT Resewn",
+    "description": "Re-implements MCPatcher's CIT",
+    "version": "1.2.2+1.21",
+    "client_env": "required"
+  },
+  "enhancedblockentities": {
+    "id": "enhancedblockentities",
+    "name": "Enhanced Block Entities",
+    "description": "Optimize and customize block entity rendering with a more modern approach.",
+    "version": "0.10.2+1.21",
+    "client_env": "required"
+  },
+  "fabricskyboxes": {
+    "id": "fabricskyboxes",
+    "name": "FabricSkyBoxes",
+    "description": "Adds custom skybox support to MC",
+    "version": "0.7.4+mc1.21",
+    "client_env": "required"
+  },
+  "fsb-interop": {
+    "id": "fsb-interop",
+    "name": "FabricSkyBoxes Interop",
+    "description": "FabricSkyBoxes Interoperability for MCPatcher/OptiFine Skies",
+    "version": "1.4.0+mc1.21-build.54",
+    "client_env": "required"
+  },
+  "modernfix": {
+    "id": "modernfix",
+    "name": "ModernFix",
+    "description": "Egregious, yet effective performance improvements for modern Minecraft",
+    "version": "5.20.0+mc1.21.1",
+    "client_env": "required"
+  },
+  "screenshotclipboard": {
+    "id": "screenshotclipboard",
+    "name": "Screenshot to Clipboard",
+    "description": "Any time you take a screenshot in the game, the image data is copied to the clipboard. You can then paste this anywhere (e.g. Discord) to upload the image and share it with others.",
+    "version": "1.0.10",
+    "client_env": "required"
+  },
+  "toomanybinds": {
+    "id": "toomanybinds",
+    "name": "Too Many Binds",
+    "description": "Solve the keybind problem, once and for all.",
+    "version": "0.3.4+1.20.2",
+    "client_env": "required"
+  },
+  "skinshuffle": {
+    "id": "skinshuffle",
+    "name": "SkinShuffle",
+    "description": "Choose and change your skin in-game!",
+    "version": "2.9.1+1.21.5",
+    "client_env": "required"
+  }
+}
