@@ -55,6 +55,13 @@
     "version": "1.0.2",
     "client_env": "required"
   },
+  "skinshuffle": {
+    "id": "skinshuffle",
+    "name": "SkinShuffle",
+    "description": "Choose and change your skin in-game!",
+    "version": "2.9.1+1.21.5",
+    "client_env": "required"
+  },
   "zoomify": {
     "id": "zoomify",
     "name": "Zoomify",
@@ -230,20 +237,6 @@
     "version": "2.6.4+1.21.5",
     "client_env": "required"
   },
-  "polytone": {
-    "id": "polytone",
-    "name": "Polytone",
-    "description": "Your Resource Packs Best Friend",
-    "version": "1.21.5-3.4.2",
-    "client_env": "required"
-  },
-  "respackopts": {
-    "id": "respackopts",
-    "name": "Resource Pack Options",
-    "description": "Config menus for resource packs",
-    "version": "4.13.1",
-    "client_env": "required"
-  },
   "rrls": {
     "id": "rrls",
     "name": "Remove Reloading Screen",
@@ -295,76 +288,6 @@
     "id": "sbcou-dev-gui",
     "name": "Sbcou",
     "description": "The description of your mod. \nAccepts multilines.",
-    "client_env": "required"
-  },
-  "animatica": {
-    "id": "animatica",
-    "name": "Animatica",
-    "description": "Allow for animating more game textures using the MCPatcher/OptiFine animation format",
-    "version": "0.6.1+1.21",
-    "client_env": "required"
-  },
-  "capes": {
-    "id": "capes",
-    "name": "Capes",
-    "description": "A mod that lets you use capes from Optifine, LabyMod, Cosmetica, Wynntils, Capes++, and the MinecraftCapes Mod.",
-    "version": "1.5.4+1.21",
-    "client_env": "required"
-  },
-  "citresewn": {
-    "id": "citresewn",
-    "name": "CIT Resewn",
-    "description": "Re-implements MCPatcher's CIT",
-    "version": "1.2.2+1.21",
-    "client_env": "required"
-  },
-  "enhancedblockentities": {
-    "id": "enhancedblockentities",
-    "name": "Enhanced Block Entities",
-    "description": "Optimize and customize block entity rendering with a more modern approach.",
-    "version": "0.10.2+1.21",
-    "client_env": "required"
-  },
-  "fabricskyboxes": {
-    "id": "fabricskyboxes",
-    "name": "FabricSkyBoxes",
-    "description": "Adds custom skybox support to MC",
-    "version": "0.7.4+mc1.21",
-    "client_env": "required"
-  },
-  "fsb-interop": {
-    "id": "fsb-interop",
-    "name": "FabricSkyBoxes Interop",
-    "description": "FabricSkyBoxes Interoperability for MCPatcher/OptiFine Skies",
-    "version": "1.4.0+mc1.21-build.54",
-    "client_env": "required"
-  },
-  "modernfix": {
-    "id": "modernfix",
-    "name": "ModernFix",
-    "description": "Egregious, yet effective performance improvements for modern Minecraft",
-    "version": "5.20.0+mc1.21.1",
-    "client_env": "required"
-  },
-  "screenshotclipboard": {
-    "id": "screenshotclipboard",
-    "name": "Screenshot to Clipboard",
-    "description": "Any time you take a screenshot in the game, the image data is copied to the clipboard. You can then paste this anywhere (e.g. Discord) to upload the image and share it with others.",
-    "version": "1.0.10",
-    "client_env": "required"
-  },
-  "toomanybinds": {
-    "id": "toomanybinds",
-    "name": "Too Many Binds",
-    "description": "Solve the keybind problem, once and for all.",
-    "version": "0.3.4+1.20.2",
-    "client_env": "required"
-  },
-  "skinshuffle": {
-    "id": "skinshuffle",
-    "name": "SkinShuffle",
-    "description": "Choose and change your skin in-game!",
-    "version": "2.9.1+1.21.5",
     "client_env": "required"
   }
 }

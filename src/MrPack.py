@@ -49,6 +49,8 @@ class MrPack:
         os.rename(temp_zip_path, self._mrpack_path)
 
     def prepare_overrides_mods(self):
+        with open('memory/dev_mods.json', 'r', encoding='utf-8') as f:
+            dev_mods = json.load(f)
         mods_dir = os.path.join(self._extract_dir, 'overrides', 'mods')
         if not os.path.isdir(mods_dir):
             return
@@ -57,6 +59,8 @@ class MrPack:
                 fpath = os.path.join(mods_dir, fname)
                 mod = MrPackFabricMod(fpath)
                 mod.change_file_extension_with_updated_status()
+                if mod.id in dev_mods:
+                    os.remove(fpath)
 
     def prepare_overrides(self, path: str = "temp/mrpack/overrides", override_memory=None):
         override_memory_path = os.path.join('memory', 'override_memory.json')

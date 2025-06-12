@@ -40,6 +40,11 @@ class MrPackIndex:
                 self._mods.append(MrPackIndexMod(file_entry))
 
     def get_verified_files(self):
+        with open('memory/dev_mods.json', 'r', encoding='utf-8') as f:
+            dev_mods = json.load(f)
+        for mod in self._mods:
+            if mod.id in dev_mods:
+                self._mods.remove(mod)
         return [mod.mod_map for mod in self._mods]
 
     def rewrite_updated_file(self):

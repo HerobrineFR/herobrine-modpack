@@ -3,17 +3,41 @@
     "status": "MIXE",
     "type": "directory"
   },
+  "temp/mrpack/overrides/config/fabric": {
+    "status": "EXCLUDE",
+    "type": "directory"
+  },
   "temp/mrpack/overrides/config/fancymenu": {
     "status": "INCLUDE",
+    "type": "directory"
+  },
+  "temp/mrpack/overrides/config/NoChatReports": {
+    "status": "EXCLUDE",
+    "type": "directory"
+  },
+  "temp/mrpack/overrides/config/presencefootsteps": {
+    "status": "EXCLUDE",
+    "type": "directory"
+  },
+  "temp/mrpack/overrides/config/respackopts": {
+    "status": "EXCLUDE",
     "type": "directory"
   },
   "temp/mrpack/overrides/config/sbcou": {
     "status": "MIXE",
     "type": "directory"
   },
+  "temp/mrpack/overrides/config/sbcou/dev": {
+    "status": "EXCLUDE",
+    "type": "directory"
+  },
   "temp/mrpack/overrides/config/sbcou/versions": {
     "status": "INCLUDE",
     "type": "directory"
+  },
+  "temp/mrpack/overrides/config/sbcou/current_version.txt": {
+    "status": "EXCLUDE",
+    "type": "file"
   },
   "temp/mrpack/overrides/config/sbcou/excluded_file_paths.json": {
     "status": "INCLUDE",
@@ -39,37 +63,9 @@
     "status": "INCLUDE",
     "type": "file"
   },
-  "temp/mrpack/overrides/options.txt": {
-    "status": "INCLUDE",
-    "type": "file"
-  },
-  "temp/mrpack/overrides/servers.dat": {
-    "status": "INCLUDE",
-    "type": "file"
-  },
-  "temp/mrpack/overrides/config/fabric": {
+  "temp/mrpack/overrides/config/skinshuffle": {
     "status": "EXCLUDE",
     "type": "directory"
-  },
-  "temp/mrpack/overrides/config/NoChatReports": {
-    "status": "EXCLUDE",
-    "type": "directory"
-  },
-  "temp/mrpack/overrides/config/presencefootsteps": {
-    "status": "EXCLUDE",
-    "type": "directory"
-  },
-  "temp/mrpack/overrides/config/respackopts": {
-    "status": "EXCLUDE",
-    "type": "directory"
-  },
-  "temp/mrpack/overrides/config/sbcou/dev": {
-    "status": "EXCLUDE",
-    "type": "directory"
-  },
-  "temp/mrpack/overrides/config/sbcou/current_version.txt": {
-    "status": "EXCLUDE",
-    "type": "file"
   },
   "temp/mrpack/overrides/config/betterf3.json": {
     "status": "EXCLUDE",
@@ -220,6 +216,14 @@
     "type": "file"
   },
   "temp/mrpack/overrides/config/zoomify.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/options.txt": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/servers.dat": {
     "status": "EXCLUDE",
     "type": "file"
   }
