@@ -47,6 +47,8 @@ class Version:
         self._mods = []
         for mod in mrpack.mods:
             self._mods.append(self.Mod.from_fabric_mod(mod))
+        for mod in mrpack.override_mods:
+            self._mods.append(self.Mod.from_fabric_mod(mod))
 
     @staticmethod
     def fromMemory(version_id: str) -> 'Version':
@@ -82,6 +84,14 @@ class Version:
                     'version': mod.version
                 }
                 for mod in version._mods
+            ] + [
+                {
+                    'id': mod.id,
+                    'name': mod.name,
+                    'description': mod.description,
+                    'version': mod.version
+                }
+                for mod in mrpack.override_mods
             ]
         }
         
@@ -118,7 +128,7 @@ class Version:
             changelog.extend([f"- {mod.id}" for mod in added_mods])
             
         if updated_mods:
-            changelog.append("\n### Mods updatés:")
+            changelog.append("\n### Mods mis a jour:")
             changelog.extend([f"- {mod}" for mod in updated_mods])
             
         if removed_mods:
@@ -160,7 +170,7 @@ class Version:
                     if parent_version_id == 'None':
                         parent_version_id = None
             
-            return Version.fromMrPack(mrpack, parent_version_id)
+            return Version.fromMrPack(mrpack, str(parent_version_id))
         
         
     

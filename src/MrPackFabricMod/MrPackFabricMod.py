@@ -123,6 +123,10 @@ class MrPackFabricMod:
     def client_env(self) -> str:
         return self._client_env
 
+    @property
+    def version(self) -> str:
+        return self._fabric_mod.version
+
     def change_file_extension_with_updated_status(self) -> None:
         file_path = self._jar_path
         if not (file_path.endswith('.jar') or file_path.endswith('.jar.disabled')):

@@ -1,5 +1,53 @@
 # Herobrine Modpack Changelog
 
+## 4.0.1
+
+
+### Mods ajoutés:
+- reeses-sodium-options
+- nuit
+- sbcou-core
+
+### Mods mis a jour:
+- betterf3: 14.0.0 → 15.0.0
+- controlling: 23.0.2 → 25.0.1
+- forgeconfigapiport: 21.5.1 → 21.7.0
+- immediatelyfast: 1.9.5+1.21.5 → 1.11.0+1.21.7
+- nochatreports: 1.21.5-v2.12.0 → 1.21.7-v2.14.0
+- searchables: 1.0.2 → 1.0.1
+- skinshuffle: 2.9.1+1.21.5 → 2.9.3+1.21.6
+- zoomify: 2.14.2+1.21.3 → 2.14.4+1.21.6
+- chat_heads: 0.13.18 → 0.13.19
+- cloth-config: 18.0.145 → 19.0.147
+- dynamic_fps: 3.9.4 → 3.9.6
+- entity_model_features: 2.4.3 → 2.4.4
+- entity_texture_features: 6.2.13 → 6.2.14
+- entityculling: 1.7.4 → 1.8.1
+- fabric-api: 0.125.3+1.21.5 → 0.128.2+1.21.7
+- fabric-language-kotlin: 1.13.3+kotlin.2.1.21 → 1.13.4+kotlin.2.2.0
+- fancymenu: 3.5.1 → 3.6.3
+- iris: 1.8.11+mc1.21.5 → 1.9.1+mc1.21.7
+- konkrete: 1.9.11 → 1.9.12
+- lambdynlights: 4.2.6+1.21.5 → 4.3.0+1.21.6
+- languagereload: 1.7.3+1.21.5 → 1.7.4+1.21.6
+- libjf: 3.18.5 → 3.19.0
+- lithium: 0.16.2+mc1.21.5 → 0.18.0+mc1.21.7
+- melody: 1.0.11 → 1.0.12
+- modmenu: 14.0.0-rc.2 → 15.0.0-beta.3
+- moreculling: 1.3.1 → 1.4.0-beta.1
+- placeholder-api: 2.6.4+1.21.5 → 2.7.1+1.21.6
+- sodium-extra: 0.6.3+mc1.21.5 → 0.6.6+mc1.21.6
+- sodium: 0.6.13+mc1.21.5 → 0.6.13+mc1.21.6
+- yet_another_config_lib_v3: 3.6.6+1.21.5-fabric → 3.7.1+1.21.6-fabric
+- rrls: 5.1.6+mc1.21.5-fabric → 5.1.9+mc1.21.6-fabric
+
+### Mods supprimés:
+- betterpingdisplay
+- presencefootsteps
+- continuity
+- firstperson
+- skinlayers3d
+
 ## 4.0.0
 
 
@@ -7,7 +55,7 @@
 - forgeconfigapiport
 - skinshuffle
 
-### Mods updatés:
+### Mods mis a jour:
 - betterf3: 11.0.3 → 14.0.0
 - controlling: 19.0.4 → 23.0.2
 - immediatelyfast: 1.3.3+1.21.1 → 1.9.5+1.21.5

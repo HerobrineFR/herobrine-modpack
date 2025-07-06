@@ -6,6 +6,9 @@ from src.MrPackFabricMod.MrPackFabricMod import MrPackFabricMod
 import json
 
 class MrPack:
+
+    _override_mods = []
+
     def __init__(self, mrpack_path: str):
         self._mrpack_path = mrpack_path
         self._extract_dir = os.path.join('temp', 'mrpack')
@@ -26,6 +29,10 @@ class MrPack:
     @property
     def mods(self):
         return self._index.mods
+
+    @property
+    def override_mods(self):
+        return self._override_mods
 
     def prepare(self):
         self._index.rewrite_updated_file()
@@ -59,7 +66,9 @@ class MrPack:
                 fpath = os.path.join(mods_dir, fname)
                 mod = MrPackFabricMod(fpath)
                 mod.change_file_extension_with_updated_status()
-                if mod.id in dev_mods:
+                if mod.id not in dev_mods:
+                    self._override_mods.append(mod)
+                else:
                     os.remove(fpath)
 
     def prepare_overrides(self, path: str = "temp/mrpack/overrides", override_memory=None):
