@@ -296,5 +296,12 @@
     "description": "Replaces Sodium's Options Screen",
     "version": "1.8.4+mc1.21.6",
     "client_env": "required"
+  },
+  "asyncparticles": {
+    "id": "asyncparticles",
+    "name": "AsyncParticles",
+    "description": "",
+    "version": "6.3.0-alpha.0",
+    "client_env": "required"
   }
 }

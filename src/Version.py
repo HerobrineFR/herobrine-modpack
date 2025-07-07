@@ -115,9 +115,9 @@ class Version:
         parent_mods = {mod.id: mod for mod in parent._mods}
         
         # Trouver les mods ajoutés, mis à jour et supprimés
-        added_mods = [mod for mod_id, mod in current_mods.items() if mod_id not in parent_mods]
+        added_mods = [f"{mod.name} ({mod.version})" for mod in self._mods if mod.id not in parent_mods]
         updated_mods = [
-            f"{mod.id}: {parent_mods[mod.id].version} → {mod.version}"
+            f"{mod.name} ({parent_mods[mod.id].version} → {mod.version})"
             for mod_id, mod in current_mods.items()
             if mod_id in parent_mods and parent_mods[mod_id].version != mod.version
         ]
@@ -125,7 +125,7 @@ class Version:
         
         if added_mods:
             changelog.append("\n### Mods ajoutés:")
-            changelog.extend([f"- {mod.id}" for mod in added_mods])
+            changelog.extend([f"- {mod}" for mod in added_mods])
             
         if updated_mods:
             changelog.append("\n### Mods mis a jour:")
@@ -133,7 +133,7 @@ class Version:
             
         if removed_mods:
             changelog.append("\n### Mods supprimés:")
-            changelog.extend([f"- {mod.id}" for mod in removed_mods])
+            changelog.extend([f"- {mod.name}" for mod in removed_mods])
             
         return "\n".join(changelog)
         
