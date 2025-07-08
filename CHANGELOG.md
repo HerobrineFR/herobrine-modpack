@@ -1,5 +1,11 @@
 # Herobrine Modpack Changelog
 
+## 4.0.5
+
+
+### Mods mis a jour:
+- SkinShuffle (2.9.3+1.21.6 → 2.9.3-local+1.21.6)
+
 ## 4.0.4
 
 
