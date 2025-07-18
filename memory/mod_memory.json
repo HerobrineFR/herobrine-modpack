@@ -303,5 +303,12 @@
     "description": "",
     "version": "6.3.0-alpha.0",
     "client_env": "required"
+  },
+  "alphaskins": {
+    "id": "alphaskins",
+    "name": "alphaskins",
+    "description": "",
+    "version": "1.21-1.0.0",
+    "client_env": "required"
   }
 }

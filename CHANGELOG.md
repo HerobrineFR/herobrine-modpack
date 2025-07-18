@@ -1,5 +1,18 @@
 # Herobrine Modpack Changelog
 
+## 4.0.6
+
+
+### Mods ajoutés:
+- alphaskins (1.21-1.0.0)
+
+### Mods mis a jour:
+- FancyMenu (3.6.3 → 3.6.3-custom)
+
+### Mods supprimés:
+- Entity Model Features
+- Entity Texture Features
+
 ## 4.0.5
 
 
