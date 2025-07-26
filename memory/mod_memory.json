@@ -143,7 +143,7 @@
     "id": "fancymenu",
     "name": "FancyMenu",
     "description": "Customize Minecraft's menus with ease!",
-    "version": "3.6.3",
+    "version": "3.6.4",
     "client_env": "required"
   },
   "ferritecore": {

@@ -1,5 +1,11 @@
 # Herobrine Modpack Changelog
 
+## 4.0.7
+
+
+### Mods mis a jour:
+- FancyMenu (3.6.3-custom → 3.6.4)
+
 ## 4.0.6
 
 
