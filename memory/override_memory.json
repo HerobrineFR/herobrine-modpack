@@ -234,5 +234,9 @@
   "temp/mrpack/overrides/config/asyncparticles": {
     "status": "EXCLUDE",
     "type": "directory"
+  },
+  "temp/mrpack/overrides/config/chatpatches.json": {
+    "status": "EXCLUDE",
+    "type": "file"
   }
 }

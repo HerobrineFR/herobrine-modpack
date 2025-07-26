@@ -1,5 +1,22 @@
 # Herobrine Modpack Changelog
 
+## 4.1.0
+
+
+### Mods ajoutés:
+- Chat Patches (8.0-alpha.2)
+
+### Mods mis a jour:
+- AsyncParticles (6.3.0-alpha.0 → 6.3.0-beta.1)
+- Controlling (25.0.1 → 26.0.2)
+- Forge Config API Port (21.7.0 → 21.8.0)
+- ImmediatelyFast (1.11.0+1.21.7 → 1.12.0+1.21.8)
+- EntityCulling (1.8.1 → 1.8.2)
+- Fabric API (0.128.2+1.21.7 → 0.129.0+1.21.8)
+- LibJF (3.19.0 → 3.19.2)
+- Lithium (0.18.0+mc1.21.7 → 0.18.0+mc1.21.8)
+- Sbcou (1.5.0 → 1.6.0)
+
 ## 4.0.7
 
 

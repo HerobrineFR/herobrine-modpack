@@ -17,21 +17,21 @@
     "id": "controlling",
     "name": "Controlling",
     "description": "Adds the ability to search for keybinds using their name in the KeyBinding menu, this allows players to easily find a key binding in the menu.",
-    "version": "25.0.1",
+    "version": "26.0.2",
     "client_env": "required"
   },
   "forgeconfigapiport": {
     "id": "forgeconfigapiport",
     "name": "Forge Config API Port",
     "description": "Provides NeoForge's & Forge's config systems to other modding ecosystems. Designed for a multi-loader architecture.",
-    "version": "21.7.0",
+    "version": "21.8.0",
     "client_env": "required"
   },
   "immediatelyfast": {
     "id": "immediatelyfast",
     "name": "ImmediatelyFast",
     "description": "Speed up and optimize immediate mode rendering in Minecraft",
-    "version": "1.11.0+1.21.7",
+    "version": "1.12.0+1.21.8",
     "client_env": "required"
   },
   "nochatreports": {
@@ -122,14 +122,14 @@
     "id": "entityculling",
     "name": "EntityCulling",
     "description": "This mod uses async path-tracing to hide Tiles/Entities that are not visible.",
-    "version": "1.8.1",
+    "version": "1.8.2",
     "client_env": "required"
   },
   "fabric-api": {
     "id": "fabric-api",
     "name": "Fabric API",
     "description": "Core API module providing key hooks and intercompatibility features.",
-    "version": "0.128.2+1.21.7",
+    "version": "0.129.0+1.21.8",
     "client_env": "required"
   },
   "fabric-language-kotlin": {
@@ -192,14 +192,14 @@
     "id": "libjf",
     "name": "LibJF",
     "description": "Library mod by JFronny",
-    "version": "3.19.0",
+    "version": "3.19.2",
     "client_env": "required"
   },
   "lithium": {
     "id": "lithium",
     "name": "Lithium",
     "description": "Lithium is a free and open-source optimization mod for Minecraft which makes a wide range of performance improvements to the game.",
-    "version": "0.18.0+mc1.21.7",
+    "version": "0.18.0+mc1.21.8",
     "client_env": "required"
   },
   "melody": {
@@ -301,7 +301,7 @@
     "id": "asyncparticles",
     "name": "AsyncParticles",
     "description": "",
-    "version": "6.3.0-alpha.0",
+    "version": "6.3.0-beta.1",
     "client_env": "required"
   },
   "alphaskins": {
@@ -309,6 +309,13 @@
     "name": "alphaskins",
     "description": "",
     "version": "1.21-1.0.0",
+    "client_env": "required"
+  },
+  "chatpatches": {
+    "id": "chatpatches",
+    "name": "Chat Patches",
+    "description": "A versatile client-side chat mod that makes the chat more useful and customizable! Check out the GitHub page for more info, and join the Discord at https://discord.gg/3MqBvNEyMz!",
+    "version": "8.0-alpha.2",
     "client_env": "required"
   }
 }
