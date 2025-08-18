@@ -238,5 +238,13 @@
   "temp/mrpack/overrides/config/chatpatches.json": {
     "status": "EXCLUDE",
     "type": "file"
+  },
+  "temp/mrpack/overrides/config/crash_assistant": {
+    "status": "INCLUDE",
+    "type": "directory"
+  },
+  "temp/mrpack/overrides/config/oglinter": {
+    "status": "EXCLUDE",
+    "type": "directory"
   }
 }

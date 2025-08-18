@@ -317,5 +317,19 @@
     "description": "A versatile client-side chat mod that makes the chat more useful and customizable! Check out the GitHub page for more info, and join the Discord at https://discord.gg/3MqBvNEyMz!",
     "version": "8.0-alpha.2",
     "client_env": "required"
+  },
+  "crash_assistant": {
+    "id": "crash_assistant",
+    "name": "Crash Assistant",
+    "description": "Shows a GUI after Minecraft crashes, immediately showing all affected logs, crash reports, or hs_err files. Provides a one-click solution to upload them, copy the link, and perform other actions for easier reporting, debugging, and troubleshooting, like analysis log for the most common crash reasons.",
+    "version": "1.9.15",
+    "client_env": "required"
+  },
+  "oglinter": {
+    "id": "oglinter",
+    "name": "OGLinter",
+    "description": "",
+    "version": "1.2-SNAPSHOT-1.21.8",
+    "client_env": "required"
   }
 }

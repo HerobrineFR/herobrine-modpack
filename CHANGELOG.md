@@ -1,5 +1,14 @@
 # Herobrine Modpack Changelog
 
+## 4.2.0
+
+
+### Mods ajoutés:
+- Crash Assistant (1.9.15)
+- Entity Model Features (2.4.4)
+- Entity Texture Features (6.2.14)
+- OGLinter (1.2-SNAPSHOT-1.21.8)
+
 ## 4.1.0
 
 
