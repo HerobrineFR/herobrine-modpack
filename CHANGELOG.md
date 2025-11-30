@@ -1,5 +1,66 @@
 # Herobrine Modpack Changelog
 
+## 4.4.1-beta
+
+
+## 4.4.0-beta
+
+
+### Mods ajoutés:
+- InvMove (0.9.1)
+- BBE (1.2.0+1.21.8)
+- Fancy Entity Renderer (0.4.0)
+- Remove Reloading Screen (5.1.10+mc1.21.8-fabric)
+- Shulker Box Tooltip (5.2.12+1.21.8)
+
+### Mods mis a jour:
+- AsyncParticles (6.3.0-beta.5 → 6.3.0)
+- Crash Assistant (1.9.15 → 1.10.23)
+- Forge Config API Port (21.8.1 → 21.8.2)
+- ImmediatelyFast (1.12.1+1.21.8 → 1.12.2+1.21.8)
+- No Chat Reports (1.21.7-v2.14.0 → 1.21.8-v2.15.0)
+- Zoomify (2.14.4+1.21.6 → 2.14.6+1.21.6)
+- Chat Heads (0.13.19 → 0.14.2)
+- Chat Patches (8.0-alpha.4 → 8.0-alpha.6)
+- Entity Model Features (3.0.1 → 3.0.6)
+- Entity Texture Features (7.0.2 → 7.0.6)
+- EntityCulling (1.8.2 → 1.9.3)
+- Fabric API (0.133.4+1.21.8 → 0.136.1+1.21.8)
+- Fabric Language Kotlin (1.13.6+kotlin.2.2.20 → 1.13.7+kotlin.2.2.21)
+- Iris (1.9.1+mc1.21.7 → 1.9.6+mc1.21.8)
+- LambDynamicLights (4.3.3+1.21.8 → 4.8.6+1.21.8)
+- Language Reload (1.7.4+1.21.6 → 1.7.5+1.21.8)
+- Lithium (0.18.0+mc1.21.8 → 0.18.1+mc1.21.8)
+- More Culling (1.4.0-beta.1 → 1.4.0-beta.2)
+- Optiboxes (1.4+mc1.21.8-cf08861 → 1.7)
+- Sodium Extra (0.6.6+mc1.21.6 → 0.7.0+mc1.21.8)
+- Sodium (0.6.13+mc1.21.6 → 0.7.3+mc1.21.8)
+
+## 4.3.0
+
+
+### Mods ajoutés:
+- Optiboxes (1.4+mc1.21.8-cf08861)
+
+### Mods mis a jour:
+- AsyncParticles (6.3.0-beta.1 → 6.3.0-beta.5)
+- Controlling (26.0.2 → 26.0.3)
+- Forge Config API Port (21.8.0 → 21.8.1)
+- ImmediatelyFast (1.12.0+1.21.8 → 1.12.1+1.21.8)
+- Searchables (1.0.1 → 1.0.2)
+- Chat Patches (8.0-alpha.2 → 8.0-alpha.4)
+- Entity Model Features (2.4.4 → 3.0.1)
+- Entity Texture Features (6.2.14 → 7.0.2)
+- Fabric API (0.129.0+1.21.8 → 0.133.4+1.21.8)
+- Fabric Language Kotlin (1.13.4+kotlin.2.2.0 → 1.13.6+kotlin.2.2.20)
+- FancyMenu (3.6.4 → 3.7.1)
+- LambDynamicLights (4.3.0+1.21.6 → 4.3.3+1.21.8)
+- Mod Menu (15.0.0-beta.3 → 15.0.0)
+- Placeholder API (2.7.1+1.21.6 → 2.7.2+1.21.8)
+
+### Mods supprimés:
+- Nuit
+
 ## 4.2.0
 
 

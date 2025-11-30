@@ -246,5 +246,25 @@
   "temp/mrpack/overrides/config/oglinter": {
     "status": "EXCLUDE",
     "type": "directory"
+  },
+  "temp/mrpack/overrides/config/optiboxes.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/invmove": {
+    "status": "EXCLUDE",
+    "type": "directory"
+  },
+  "temp/mrpack/overrides/config/betterblockentities.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/invmove.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/shulkerboxtooltip.json5": {
+    "status": "EXCLUDE",
+    "type": "file"
   }
 }
