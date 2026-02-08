@@ -266,5 +266,49 @@
   "temp/mrpack/overrides/config/shulkerboxtooltip.json5": {
     "status": "EXCLUDE",
     "type": "file"
+  },
+  "temp/mrpack/overrides/config/skyboxify.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/transition.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/trender.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/data": {
+    "status": "EXCLUDE",
+    "type": "directory"
+  },
+  "temp/mrpack/overrides/downloads": {
+    "status": "EXCLUDE",
+    "type": "directory"
+  },
+  "temp/mrpack/overrides/fancymenu_data": {
+    "status": "EXCLUDE",
+    "type": "directory"
+  },
+  "temp/mrpack/overrides/local": {
+    "status": "EXCLUDE",
+    "type": "directory"
+  },
+  "temp/mrpack/overrides/saves": {
+    "status": "EXCLUDE",
+    "type": "directory"
+  },
+  "temp/mrpack/overrides/icon.png": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/servers.dat_old": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/usercache.json": {
+    "status": "EXCLUDE",
+    "type": "file"
   }
 }

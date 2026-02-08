@@ -31,7 +31,7 @@
     "id": "immediatelyfast",
     "name": "ImmediatelyFast",
     "description": "Speed up and optimize immediate mode rendering in Minecraft",
-    "version": "1.12.2+1.21.8",
+    "version": "1.12.5+1.21.8",
     "client_env": "required"
   },
   "nochatreports": {
@@ -66,14 +66,14 @@
     "id": "zoomify",
     "name": "Zoomify",
     "description": "A zoom mod with infinite customizability.",
-    "version": "2.14.6+1.21.6",
+    "version": "2.15.2+1.21.6",
     "client_env": "required"
   },
   "chat_heads": {
     "id": "chat_heads",
     "name": "Chat Heads",
     "description": "See who are you chatting with!\nThis mod adds player heads next to their chat messages.",
-    "version": "0.14.2",
+    "version": "0.15.0",
     "client_env": "required"
   },
   "cloth-config": {
@@ -101,28 +101,28 @@
     "id": "dynamic_fps",
     "name": "Dynamic FPS",
     "description": "Reduce resource usage while Minecraft is in the background or idle.",
-    "version": "3.9.6",
+    "version": "3.11.4",
     "client_env": "required"
   },
   "entity_model_features": {
     "id": "entity_model_features",
     "name": "Entity Model Features",
     "description": "This is an expansion of the ETF mod, it adds support for OptiFine format Custom Entity Model (CEM) resource packs.\nWhile still allowing you to disable this to use a different model mod :)",
-    "version": "3.0.6",
+    "version": "3.0.11",
     "client_env": "required"
   },
   "entity_texture_features": {
     "id": "entity_texture_features",
     "name": "Entity Texture Features",
     "description": "Adds support for resource-pack driven features for entity textures including some OptiFine features\nSupports OptiFine:\n - Random & Custom textures\n - Emissive textures\nWith more features such as:\n - Blinking textures\n - Player Skin support",
-    "version": "7.0.6",
+    "version": "7.0.8",
     "client_env": "required"
   },
   "entityculling": {
     "id": "entityculling",
     "name": "EntityCulling",
     "description": "This mod uses async path-tracing to hide Tiles/Entities that are not visible.",
-    "version": "1.9.3",
+    "version": "1.9.5",
     "client_env": "required"
   },
   "fabric-api": {
@@ -136,7 +136,7 @@
     "id": "fabric-language-kotlin",
     "name": "Fabric Language Kotlin",
     "description": "Fabric language module for Kotlin.",
-    "version": "1.13.7+kotlin.2.2.21",
+    "version": "1.13.9+kotlin.2.3.10",
     "client_env": "required"
   },
   "fancymenu": {
@@ -150,7 +150,7 @@
     "id": "ferritecore",
     "name": "FerriteCore",
     "description": "Reduces memory usage",
-    "version": "8.0.0",
+    "version": "8.0.4",
     "client_env": "required"
   },
   "firstperson": {
@@ -178,7 +178,7 @@
     "id": "lambdynlights",
     "name": "LambDynamicLights",
     "description": "The most feature-complete dynamic lighting mod.",
-    "version": "4.8.6+1.21.8",
+    "version": "4.8.7+1.21.8",
     "client_env": "required"
   },
   "languagereload": {
@@ -220,7 +220,7 @@
     "id": "modmenu",
     "name": "Mod Menu",
     "description": "Adds a mod menu to view the list of mods you have installed.",
-    "version": "15.0.0",
+    "version": "15.0.1",
     "client_env": "required"
   },
   "moreculling": {
@@ -269,7 +269,7 @@
     "id": "yet_another_config_lib_v3",
     "name": "YetAnotherConfigLib",
     "description": "YetAnotherConfigLib (yacl) is just that. A builder-based configuration library for Minecraft.",
-    "version": "3.7.1+1.21.6-fabric",
+    "version": "3.8.2+1.21.6-fabric",
     "client_env": "required"
   },
   "nuit": {
@@ -315,14 +315,14 @@
     "id": "chatpatches",
     "name": "Chat Patches",
     "description": "A versatile client-side chat mod that makes the chat more useful and customizable! Check out the GitHub page for more info, and join the Discord at https://discord.gg/3MqBvNEyMz!",
-    "version": "8.0-alpha.6",
+    "version": "8.0-alpha.7",
     "client_env": "required"
   },
   "crash_assistant": {
     "id": "crash_assistant",
     "name": "Crash Assistant",
     "description": "Shows a GUI after Minecraft crashes, immediately showing all affected logs, crash reports, or hs_err files. Provides a one-click solution to upload them, copy the link, and perform other actions for easier reporting, debugging, and troubleshooting, like analysis log for the most common crash reasons.",
-    "version": "1.10.23",
+    "version": "1.10.28",
     "client_env": "required"
   },
   "oglinter": {
@@ -343,7 +343,7 @@
     "id": "invmove",
     "name": "InvMove",
     "description": "Lets you move while in inventories.",
-    "version": "0.9.1",
+    "version": "0.9.3",
     "client_env": "required"
   },
   "betterblockentities": {
@@ -357,7 +357,7 @@
     "id": "fancy_entity_renderer",
     "name": "Fancy Entity Renderer",
     "description": "I'm a fancy GUI!",
-    "version": "0.4.0",
+    "version": "0.4.3",
     "client_env": "required"
   },
   "shulkerboxtooltip": {
@@ -365,6 +365,13 @@
     "name": "Shulker Box Tooltip",
     "description": "What's in my shulker box?",
     "version": "5.2.12+1.21.8",
+    "client_env": "required"
+  },
+  "skyboxify": {
+    "id": "skyboxify",
+    "name": "Skyboxify",
+    "description": "A skybox mod that allows you to use OptiFine skies in Fabric 1.21+",
+    "version": "2.3",
     "client_env": "required"
   }
 }

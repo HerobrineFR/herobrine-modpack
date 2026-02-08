@@ -1,5 +1,39 @@
 # Herobrine Modpack Changelog
 
+## 4.4.3
+
+
+### Mods mis a jour:
+- Chat Heads (0.14.2 → 0.15.0)
+- Fabric Language Kotlin (1.13.8+kotlin.2.3.0 → 1.13.9+kotlin.2.3.10)
+- Zoomify (2.15.1+1.21.6 → 2.15.2+1.21.6)
+
+## 4.4.2-beta
+
+
+### Mods ajoutés:
+- Skyboxify (2.3)
+
+### Mods mis a jour:
+- Crash Assistant (1.10.23 → 1.10.28)
+- ImmediatelyFast (1.12.2+1.21.8 → 1.12.5+1.21.8)
+- InvMove (0.9.1 → 0.9.3)
+- Chat Patches (8.0-alpha.6 → 8.0-alpha.7)
+- Dynamic FPS (3.9.6 → 3.11.4)
+- Entity Model Features (3.0.6 → 3.0.11)
+- Entity Texture Features (7.0.6 → 7.0.8)
+- EntityCulling (1.9.3 → 1.9.5)
+- Fabric Language Kotlin (1.13.7+kotlin.2.2.21 → 1.13.8+kotlin.2.3.0)
+- Fancy Entity Renderer (0.4.0 → 0.4.3)
+- FerriteCore (8.0.0 → 8.0.4)
+- LambDynamicLights (4.8.6+1.21.8 → 4.8.7+1.21.8)
+- Mod Menu (15.0.0 → 15.0.1)
+- YetAnotherConfigLib (3.7.1+1.21.6-fabric → 3.8.2+1.21.6-fabric)
+- Zoomify (2.14.6+1.21.6 → 2.15.1+1.21.6)
+
+### Mods supprimés:
+- Optiboxes
+
 ## 4.4.1-beta
 
 
