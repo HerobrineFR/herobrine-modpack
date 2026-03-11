@@ -1,5 +1,24 @@
 # Herobrine Modpack Changelog
 
+## 4.5.0
+
+
+### Mods ajoutés:
+- HB Tweaks - Names (1.2.1)
+- Simple Skin Swapper (0.3.0)
+
+### Mods mis a jour:
+- Crash Assistant (1.10.28 → 1.11.0)
+- Entity Model Features (3.0.11 → 3.0.12)
+- Entity Texture Features (7.0.8 → 7.0.9)
+- Fancy Entity Renderer (0.4.3 → 0.4.5)
+- OGLinter (1.2-SNAPSHOT-1.21.8 → 1.3-SNAPSHOT-1.21.8)
+- Skyboxify (2.3 → 2.6)
+
+### Mods supprimés:
+- alphaskins
+- SkinShuffle
+
 ## 4.4.3
 
 

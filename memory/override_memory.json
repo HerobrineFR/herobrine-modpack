@@ -310,5 +310,17 @@
   "temp/mrpack/overrides/usercache.json": {
     "status": "EXCLUDE",
     "type": "file"
+  },
+  "temp/mrpack/overrides/config/simpleskinswapper.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/screenshots": {
+    "status": "EXCLUDE",
+    "type": "directory"
+  },
+  "temp/mrpack/overrides/skins": {
+    "status": "EXCLUDE",
+    "type": "directory"
   }
 }
