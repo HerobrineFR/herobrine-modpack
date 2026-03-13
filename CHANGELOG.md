@@ -1,5 +1,12 @@
 # Herobrine Modpack Changelog
 
+## 4.5.1
+
+
+### Mods mis a jour:
+- HB Tweaks - Names (1.2.1 → 1.2.3)
+- Simple Skin Swapper (0.3.0 → 0.4.0)
+
 ## 4.5.0
 
 

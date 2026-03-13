@@ -378,14 +378,14 @@
     "id": "hbtweaks-names",
     "name": "HB Tweaks - Names",
     "description": "Show names of targeted players",
-    "version": "1.2.1",
+    "version": "1.2.3",
     "client_env": "required"
   },
   "simpleskinswapper": {
     "id": "simpleskinswapper",
     "name": "Simple Skin Swapper",
     "description": "Swap your skin on the fly with a radial wheel or carousel. Supports per-server commands for real-time updates without reconnecting.",
-    "version": "0.3.0",
+    "version": "0.4.0",
     "client_env": "required"
   }
 }
