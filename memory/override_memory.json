@@ -322,5 +322,97 @@
   "temp/mrpack/overrides/skins": {
     "status": "EXCLUDE",
     "type": "directory"
+  },
+  "temp/mrpack/overrides/config/spark": {
+    "status": "EXCLUDE",
+    "type": "directory"
+  },
+  "temp/mrpack/overrides/config/autospeller.json5": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/BBEConfig.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/cwb.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/gnetum.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/ixeris.toml": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/moc.json": {
+    "status": "INCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/modernfix-mixins.properties": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/quick-pack.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/sodium-shadowy-path-blocks-options.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/debug-profile.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/realms_persistence.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/moc": {
+    "status": "MIXE",
+    "type": "directory"
+  },
+  "temp/mrpack/overrides/config/moc/dev": {
+    "status": "EXCLUDE",
+    "type": "directory"
+  },
+  "temp/mrpack/overrides/config/moc/dev-ref": {
+    "status": "EXCLUDE",
+    "type": "directory"
+  },
+  "temp/mrpack/overrides/config/moc/patchs": {
+    "status": "INCLUDE",
+    "type": "directory"
+  },
+  "temp/mrpack/overrides/config/moc/patch-list.json": {
+    "status": "INCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/mocappliedpatches.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/mocmetadata.json": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/mocappliedlogs": {
+    "status": "EXCLUDE",
+    "type": "directory"
+  },
+  "temp/mrpack/overrides/config/moc/deleted-patch-list.json": {
+    "status": "INCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/mocfsmetas": {
+    "status": "EXCLUDE",
+    "type": "directory"
+  },
+  "temp/mrpack/overrides/config/autospeller_builtin_dictionary.json": {
+    "status": "EXCLUDE",
+    "type": "file"
   }
 }

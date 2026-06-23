@@ -7,8 +7,10 @@ class FabricModJson:
             raise FileNotFoundError(f"Le fichier '{json_path}' n'existe pas.")
         with open(json_path, 'r', encoding='utf-8') as f:
             try:
-                data = json.load(f)
+                data = json.loads(f.read(), strict=False)
             except json.JSONDecodeError as e:
+                f.seek(0)
+                print(f"--- Contenu de '{json_path}' ---\n{f.read()}\n---", flush=True)
                 raise ValueError(f"Erreur de parsing JSON dans '{json_path}': {e}")
         self._id = data.get('id', None)
         self._name = data.get('name', None)
