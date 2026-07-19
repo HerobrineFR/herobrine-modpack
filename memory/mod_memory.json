@@ -31,7 +31,7 @@
     "id": "immediatelyfast",
     "name": "ImmediatelyFast",
     "description": "Speed up and optimize immediate mode rendering in Minecraft",
-    "version": "1.15.2+26.1.2",
+    "version": "1.15.3+26.1",
     "client_env": "required"
   },
   "nochatreports": {
@@ -66,7 +66,7 @@
     "id": "zoomify",
     "name": "Zoomify",
     "description": "A zoom mod with infinite customizability.",
-    "version": "2.16.0+26.1",
+    "version": "2.16.1+26.1",
     "client_env": "required"
   },
   "chat_heads": {
@@ -129,21 +129,21 @@
     "id": "fabric-api",
     "name": "Fabric API",
     "description": "Core API module providing key hooks and intercompatibility features.",
-    "version": "0.152.1+26.1.2",
+    "version": "0.155.2+26.1.2",
     "client_env": "required"
   },
   "fabric-language-kotlin": {
     "id": "fabric-language-kotlin",
     "name": "Fabric Language Kotlin",
     "description": "Fabric language module for Kotlin.",
-    "version": "1.13.12+kotlin.2.4.0",
+    "version": "1.13.13+kotlin.2.4.10",
     "client_env": "required"
   },
   "fancymenu": {
     "id": "fancymenu",
     "name": "FancyMenu",
     "description": "Customize Minecraft's menus with ease!",
-    "version": "3.9.1",
+    "version": "3.9.8",
     "client_env": "required"
   },
   "ferritecore": {
@@ -164,7 +164,7 @@
     "id": "iris",
     "name": "Iris",
     "description": "A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs",
-    "version": "1.10.9+mc26.1.1",
+    "version": "1.11.2+mc26.1.2",
     "client_env": "required"
   },
   "konkrete": {
@@ -220,7 +220,7 @@
     "id": "modmenu",
     "name": "Mod Menu",
     "description": "Adds a mod menu to view the list of mods you have installed.",
-    "version": "18.0.0-beta.1",
+    "version": "18.0.0",
     "client_env": "required"
   },
   "moreculling": {
@@ -262,14 +262,14 @@
     "id": "sodium",
     "name": "Sodium",
     "description": "Sodium is a powerful rendering engine for Minecraft which greatly improves frame rates and micro-stutter, while fixing many graphical issues",
-    "version": "0.8.12+mc26.1.2",
+    "version": "0.9.1+mc26.1.2",
     "client_env": "required"
   },
   "yet_another_config_lib_v3": {
     "id": "yet_another_config_lib_v3",
     "name": "YetAnotherConfigLib",
     "description": "YetAnotherConfigLib (yacl) is just that. A builder-based configuration library for Minecraft.",
-    "version": "3.9.4+26.1-fabric",
+    "version": "3.9.5+26.1-fabric",
     "client_env": "required"
   },
   "nuit": {
@@ -301,7 +301,7 @@
     "id": "asyncparticles",
     "name": "AsyncParticles",
     "description": "",
-    "version": "26.1.0b-alpha.3",
+    "version": "26.1.1.0-beta.2",
     "client_env": "required"
   },
   "alphaskins": {
@@ -315,14 +315,14 @@
     "id": "chatpatches",
     "name": "Chat Patches",
     "description": "A versatile client-side chat mod that makes the chat more useful and customizable! Check out the GitHub page for more info, and join the Discord at https://discord.gg/3MqBvNEyMz!",
-    "version": "8.0-alpha.9",
+    "version": "8.0-alpha.11",
     "client_env": "required"
   },
   "crash_assistant": {
     "id": "crash_assistant",
     "name": "Crash Assistant",
     "description": "Shows a GUI after Minecraft crashes, immediately showing all affected logs, crash reports, or hs_err files. Provides a one-click solution to upload them, copy the link, and perform other actions for easier reporting, debugging, and troubleshooting, like analysis log for the most common crash reasons.",
-    "version": "1.11.10",
+    "version": "1.11.11",
     "client_env": "required"
   },
   "oglinter": {
@@ -350,7 +350,7 @@
     "id": "betterblockentities",
     "name": "BBE",
     "description": "Optimize and customize block entity rendering with a more modern approach.",
-    "version": "1.3.4+mc26.1.2",
+    "version": "1.3.7-beta.1+mc26.1.2",
     "client_env": "required"
   },
   "fancy_entity_renderer": {
@@ -371,7 +371,7 @@
     "id": "skyboxify",
     "name": "Skyboxify",
     "description": "A skybox mod that allows you to use OptiFine skies in Fabric 1.21+",
-    "version": "3.0",
+    "version": "3.1",
     "client_env": "required"
   },
   "hbtweaks-names": {
@@ -392,14 +392,14 @@
     "id": "gnetum",
     "name": "Gnetum",
     "description": "Minecraft mod that distributes HUD updates over multiple frames to improve performance.",
-    "version": "4.4.1+26.1.2-fabric",
+    "version": "4.5.0+26.1.2-fabric",
     "client_env": "required"
   },
   "ixeris": {
     "id": "ixeris",
     "name": "Ixeris",
     "description": "Buffered raw input and threaded event polling",
-    "version": "4.5.1+26.1.2-fabric",
+    "version": "4.5.2+26.1.2-fabric",
     "client_env": "required"
   },
   "autospeller": {
@@ -420,21 +420,21 @@
     "id": "moc",
     "name": "Modpack Option Control",
     "description": "An mod allowing atomic option management for modpack makers",
-    "version": "0.8.0",
+    "version": "0.8.1",
     "client_env": "required"
   },
   "modernfix": {
     "id": "modernfix",
     "name": "ModernFix",
     "description": "Egregious, yet effective performance improvements for modern Minecraft",
-    "version": "5.27.17-build.2",
+    "version": "5.27.19-build.1",
     "client_env": "required"
   },
   "quick-pack": {
     "id": "quick-pack",
     "name": "quick-pack",
     "description": "Improve datapack / resourcepack zip file loading times",
-    "version": "1.3.1",
+    "version": "1.3.2",
     "client_env": "required"
   },
   "sspb": {
@@ -449,6 +449,20 @@
     "name": "spark",
     "description": "spark is a performance profiling plugin/mod for Minecraft clients, servers and proxies.",
     "version": "1.10.173",
+    "client_env": "required"
+  },
+  "hb-tweaks": {
+    "id": "hb-tweaks",
+    "name": "HB Tweaks",
+    "description": "Ajoute des fonctionnalités spéciales pour hb",
+    "version": "2.2.3",
+    "client_env": "required"
+  },
+  "hbtweaks-logs": {
+    "id": "hbtweaks-logs",
+    "name": "HB Tweaks - Logs",
+    "description": "Save the chat logs elsewhere",
+    "version": "1.1.0",
     "client_env": "required"
   }
 }

@@ -414,5 +414,29 @@
   "temp/mrpack/overrides/config/autospeller_builtin_dictionary.json": {
     "status": "EXCLUDE",
     "type": "file"
+  },
+  "temp/mrpack/overrides/config/hb-tweaks-context": {
+    "status": "EXCLUDE",
+    "type": "directory"
+  },
+  "temp/mrpack/overrides/config/rrls-2.toml.bak": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/rrls-3.toml.bak": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/logs_chat": {
+    "status": "EXCLUDE",
+    "type": "directory"
+  },
+  "temp/mrpack/overrides/hotbar.nbt": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/hs_err_pid1420.log": {
+    "status": "EXCLUDE",
+    "type": "file"
   }
 }

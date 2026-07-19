@@ -1,15 +1,61 @@
 # Herobrine Modpack Changelog
 
+## 5.1.0
+
+
+### Mods ajoutés:
+- HB Tweaks (2.2.3)
+- HB Tweaks - Logs (1.1.0)
+
+### Mods mis a jour:
+- AsyncParticles (26.1.0b-alpha.3 → 26.1.1.0-beta.2)
+- Crash Assistant (1.11.10 → 1.11.11)
+- Gnetum (4.4.1+26.1.2-fabric → 4.5.0+26.1.2-fabric)
+- ImmediatelyFast (1.15.2+26.1.2 → 1.15.3+26.1)
+- Ixeris (4.5.1+26.1.2-fabric → 4.5.2+26.1.2-fabric)
+- BBE (1.3.4+mc26.1.2 → 1.3.7-beta.1+mc26.1.2)
+- Chat Patches (8.0-alpha.9 → 8.0-alpha.11)
+- Fabric API (0.152.1+26.1.2 → 0.155.2+26.1.2)
+- Fabric Language Kotlin (1.13.12+kotlin.2.4.0 → 1.13.13+kotlin.2.4.10)
+- FancyMenu (3.9.1 → 3.9.8)
+- Iris (1.10.9+mc26.1.1 → 1.11.2+mc26.1.2)
+- ModernFix (5.27.17-build.2 → 5.27.19-build.1)
+- Mod Menu (18.0.0-beta.1 → 18.0.0)
+- quick-pack (1.3.1 → 1.3.2)
+- Skyboxify (3.0 → 3.1)
+- Sodium (0.8.12+mc26.1.2 → 0.9.1+mc26.1.2)
+- YetAnotherConfigLib (3.9.4+26.1-fabric → 3.9.5+26.1-fabric)
+- Zoomify (2.16.0+26.1 → 2.16.1+26.1)
+
+### Mods supprimés:
+- HB Tweaks - Names
+
+## 5.0.1
+
+
+### Mods mis a jour:
+- Ixeris (4.5.0+26.1.2-fabric → 4.5.1+26.1.2-fabric)
+- Autospeller (1.4 → 1.5.0)
+- Cubes Without Borders (4.0.6+26.1 → 4.1.0+26.1)
+- EntityCulling (1.10.3 → 1.10.5)
+- Language Reload (1.7.6+26.1 → 1.7.7+26.1.2)
+- Modpack Option Control (0.4.0 → 0.8.1)
+- ModernFix (5.27.7-build.1 → 5.27.17-build.2)
+- Remove Reloading Screen (5.2.5+mc.26.1 → 5.2.6+mc.26.1)
+
+### Mods supprimés:
+- No Chat Reports
+
 ## 5.0.0
 
 
 ### Mods ajoutés:
 - Gnetum (4.4.1+26.1.2-fabric)
-- Ixeris (4.5.1+26.1.2-fabric)
-- Autospeller (1.5.0)
-- Cubes Without Borders (4.1.0+26.1)
-- Modpack Option Control (0.8.0)
-- ModernFix (5.27.17-build.2)
+- Ixeris (4.5.0+26.1.2-fabric)
+- Autospeller (1.4)
+- Cubes Without Borders (4.0.6+26.1)
+- Modpack Option Control (0.4.0)
+- ModernFix (5.27.7-build.1)
 - quick-pack (1.3.1)
 - Sodium Shadowy Path Blocks (7.0.0)
 
@@ -19,6 +65,7 @@
 - Crash Assistant (1.11.0 → 1.11.10)
 - Forge Config API Port (21.8.2 → 26.1.5)
 - ImmediatelyFast (1.12.5+1.21.8 → 1.15.2+26.1.2)
+- No Chat Reports (1.21.8-v2.15.0 → 26.1-v2.19.0)
 - BBE (1.2.0+1.21.8 → 1.3.4+mc26.1.2)
 - Chat Heads (0.15.0 → 1.2.4)
 - Chat Patches (8.0-alpha.7 → 8.0-alpha.9)
@@ -26,7 +73,7 @@
 - Dynamic FPS (3.11.4 → 3.11.7)
 - Entity Model Features (3.0.12 → 3.2.4)
 - Entity Texture Features (7.0.9 → 7.1)
-- EntityCulling (1.9.5 → 1.10.5)
+- EntityCulling (1.9.5 → 1.10.3)
 - Fabric API (0.136.1+1.21.8 → 0.152.1+26.1.2)
 - Fabric Language Kotlin (1.13.9+kotlin.2.3.10 → 1.13.12+kotlin.2.4.0)
 - Fancy Entity Renderer (0.4.5 → 0.6.1)
@@ -36,13 +83,13 @@
 - Iris (1.9.6+mc1.21.8 → 1.10.9+mc26.1.1)
 - Konkrete (1.9.12 → 1.10.2)
 - LambDynamicLights (4.8.7+1.21.8 → 4.11.0+26.1.2)
-- Language Reload (1.7.5+1.21.8 → 1.7.7+26.1.2)
+- Language Reload (1.7.5+1.21.8 → 1.7.6+26.1)
 - Lithium (0.18.1+mc1.21.8 → 0.24.6+mc26.1.2)
 - Melody (1.0.12 → 1.0.16)
 - Mod Menu (15.0.1 → 18.0.0-beta.1)
 - More Culling (1.4.0-beta.2 → 1.7.2)
 - Placeholder API (2.7.2+1.21.8 → 3.0.0+26.1)
-- Remove Reloading Screen (5.1.10+mc1.21.8-fabric → 5.2.6+mc.26.1)
+- Remove Reloading Screen (5.1.10+mc1.21.8-fabric → 5.2.5+mc.26.1)
 - Shulker Box Tooltip (5.2.12+1.21.8 → 5.3.0+26.1.1)
 - Simple Skin Swapper (0.4.0 → 0.7.0-26.1.2)
 - Skyboxify (2.6 → 3.0)
@@ -53,7 +100,6 @@
 ### Mods supprimés:
 - BetterF3
 - InvMove
-- No Chat Reports
 - Cubes Without Borders
 - LibJF
 - Model Gap Fix
