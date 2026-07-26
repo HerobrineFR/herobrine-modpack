@@ -1,5 +1,17 @@
 # Herobrine Modpack Changelog
 
+## 5.1.1
+
+
+### Mods mis a jour:
+- AsyncParticles (26.1.1.0-beta.2 → 26.1.2.0-alpha.1)
+- Gnetum (4.5.0+26.1.2-fabric → 4.5.1+26.1.2-fabric)
+- Autospeller (1.5.0 → 1.6.0)
+- Chat Heads (1.2.4 → 1.2.5)
+- HB Tweaks (2.2.3 → 2.2.4)
+- Skyboxify (3.1 → 3.2)
+- YetAnotherConfigLib (3.9.5+26.1-fabric → 3.9.6+26.1-fabric)
+
 ## 5.1.0
 
 

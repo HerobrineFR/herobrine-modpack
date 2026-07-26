@@ -73,7 +73,7 @@
     "id": "chat_heads",
     "name": "Chat Heads",
     "description": "See who are you chatting with!\nThis mod adds player heads next to their chat messages.",
-    "version": "1.2.4",
+    "version": "1.2.5",
     "client_env": "required"
   },
   "cloth-config": {
@@ -269,7 +269,7 @@
     "id": "yet_another_config_lib_v3",
     "name": "YetAnotherConfigLib",
     "description": "YetAnotherConfigLib (yacl) is just that. A builder-based configuration library for Minecraft.",
-    "version": "3.9.5+26.1-fabric",
+    "version": "3.9.6+26.1-fabric",
     "client_env": "required"
   },
   "nuit": {
@@ -301,7 +301,7 @@
     "id": "asyncparticles",
     "name": "AsyncParticles",
     "description": "",
-    "version": "26.1.1.0-beta.2",
+    "version": "26.1.2.0-alpha.1",
     "client_env": "required"
   },
   "alphaskins": {
@@ -371,7 +371,7 @@
     "id": "skyboxify",
     "name": "Skyboxify",
     "description": "A skybox mod that allows you to use OptiFine skies in Fabric 1.21+",
-    "version": "3.1",
+    "version": "3.2",
     "client_env": "required"
   },
   "hbtweaks-names": {
@@ -392,7 +392,7 @@
     "id": "gnetum",
     "name": "Gnetum",
     "description": "Minecraft mod that distributes HUD updates over multiple frames to improve performance.",
-    "version": "4.5.0+26.1.2-fabric",
+    "version": "4.5.1+26.1.2-fabric",
     "client_env": "required"
   },
   "ixeris": {
@@ -406,7 +406,7 @@
     "id": "autospeller",
     "name": "Autospeller",
     "description": "A mod that provides chat corrections.",
-    "version": "1.5.0",
+    "version": "1.6.0",
     "client_env": "required"
   },
   "cwb": {
@@ -455,7 +455,7 @@
     "id": "hb-tweaks",
     "name": "HB Tweaks",
     "description": "Ajoute des fonctionnalités spéciales pour hb",
-    "version": "2.2.3",
+    "version": "2.2.4",
     "client_env": "required"
   },
   "hbtweaks-logs": {

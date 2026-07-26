@@ -1,0 +1,276 @@
+{
+  "version_id": "5.1.1",
+  "parent_version_id": "5.1.0",
+  "mods": [
+    {
+      "id": "asyncparticles",
+      "name": "AsyncParticles",
+      "description": "",
+      "version": "26.1.2.0-alpha.1"
+    },
+    {
+      "id": "controlling",
+      "name": "Controlling",
+      "description": "Adds the ability to search for keybinds using their name in the KeyBinding menu, this allows players to easily find a key binding in the menu.",
+      "version": "26.1.2.4"
+    },
+    {
+      "id": "crash_assistant",
+      "name": "Crash Assistant",
+      "description": "Shows a GUI after Minecraft crashes, immediately showing all affected logs, crash reports, or hs_err files. Provides a one-click solution to upload them, copy the link, and perform other actions for easier reporting, debugging, and troubleshooting, like analysis log for the most common crash reasons.",
+      "version": "1.11.11"
+    },
+    {
+      "id": "forgeconfigapiport",
+      "name": "Forge Config API Port",
+      "description": "Provides NeoForge's & Forge's config systems to other modding ecosystems. Designed for a multi-loader architecture.",
+      "version": "26.1.5"
+    },
+    {
+      "id": "gnetum",
+      "name": "Gnetum",
+      "description": "Minecraft mod that distributes HUD updates over multiple frames to improve performance.",
+      "version": "4.5.1+26.1.2-fabric"
+    },
+    {
+      "id": "immediatelyfast",
+      "name": "ImmediatelyFast",
+      "description": "Speed up and optimize immediate mode rendering in Minecraft",
+      "version": "1.15.3+26.1"
+    },
+    {
+      "id": "ixeris",
+      "name": "Ixeris",
+      "description": "Buffered raw input and threaded event polling",
+      "version": "4.5.2+26.1.2-fabric"
+    },
+    {
+      "id": "searchables",
+      "name": "Searchables",
+      "description": "A library mod to facilitate adding search bars with auto complete and search types.",
+      "version": "1.0.2"
+    },
+    {
+      "id": "autospeller",
+      "name": "Autospeller",
+      "description": "A mod that provides chat corrections.",
+      "version": "1.6.0"
+    },
+    {
+      "id": "betterblockentities",
+      "name": "BBE",
+      "description": "Optimize and customize block entity rendering with a more modern approach.",
+      "version": "1.3.7-beta.1+mc26.1.2"
+    },
+    {
+      "id": "chat_heads",
+      "name": "Chat Heads",
+      "description": "See who are you chatting with!\nThis mod adds player heads next to their chat messages.",
+      "version": "1.2.5"
+    },
+    {
+      "id": "chatpatches",
+      "name": "Chat Patches",
+      "description": "A versatile client-side chat mod that makes the chat more useful and customizable! Check out the GitHub page for more info, and join the Discord at https://discord.gg/3MqBvNEyMz!",
+      "version": "8.0-alpha.11"
+    },
+    {
+      "id": "cloth-config",
+      "name": "Cloth Config v26.1",
+      "description": "An API for config screens.",
+      "version": "26.1.154"
+    },
+    {
+      "id": "cwb",
+      "name": "Cubes Without Borders",
+      "description": "Allows you to play Minecraft in a borderless fullscreen window.",
+      "version": "4.1.0+26.1"
+    },
+    {
+      "id": "dynamic_fps",
+      "name": "Dynamic FPS",
+      "description": "Reduce resource usage while Minecraft is in the background or idle.",
+      "version": "3.11.7"
+    },
+    {
+      "id": "entity_model_features",
+      "name": "Entity Model Features",
+      "description": "This is an expansion of the ETF mod, it adds support for OptiFine format Custom Entity Model (CEM) resource packs.\nWhile still allowing you to disable this to use a different model mod :)",
+      "version": "3.2.4"
+    },
+    {
+      "id": "entity_texture_features",
+      "name": "Entity Texture Features",
+      "description": "Adds support for resource-pack driven features for entity textures including some OptiFine features\nSupports OptiFine:\n - Random & Custom textures\n - Emissive textures\nWith more features such as:\n - Blinking textures\n - Player Skin support",
+      "version": "7.1"
+    },
+    {
+      "id": "entityculling",
+      "name": "EntityCulling",
+      "description": "This mod uses async path-tracing to hide Tiles/Entities that are not visible.",
+      "version": "1.10.5"
+    },
+    {
+      "id": "fabric-api",
+      "name": "Fabric API",
+      "description": "Core API module providing key hooks and intercompatibility features.",
+      "version": "0.155.2+26.1.2"
+    },
+    {
+      "id": "fabric-language-kotlin",
+      "name": "Fabric Language Kotlin",
+      "description": "Fabric language module for Kotlin.",
+      "version": "1.13.13+kotlin.2.4.10"
+    },
+    {
+      "id": "fancy_entity_renderer",
+      "name": "Fancy Entity Renderer",
+      "description": "I'm a fancy GUI!",
+      "version": "0.6.1"
+    },
+    {
+      "id": "fancymenu",
+      "name": "FancyMenu",
+      "description": "Customize Minecraft's menus with ease!",
+      "version": "3.9.8"
+    },
+    {
+      "id": "ferritecore",
+      "name": "FerriteCore",
+      "description": "Reduces memory usage",
+      "version": "9.0.0"
+    },
+    {
+      "id": "hb-tweaks",
+      "name": "HB Tweaks",
+      "description": "Ajoute des fonctionnalités spéciales pour hb",
+      "version": "2.2.4"
+    },
+    {
+      "id": "hbtweaks-logs",
+      "name": "HB Tweaks - Logs",
+      "description": "Save the chat logs elsewhere",
+      "version": "1.1.0"
+    },
+    {
+      "id": "iris",
+      "name": "Iris",
+      "description": "A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs",
+      "version": "1.11.2+mc26.1.2"
+    },
+    {
+      "id": "konkrete",
+      "name": "Konkrete",
+      "description": "Core library for Keksuccino's mods.",
+      "version": "1.10.2"
+    },
+    {
+      "id": "lambdynlights",
+      "name": "LambDynamicLights",
+      "description": "The most feature-complete dynamic lighting mod.",
+      "version": "4.11.0+26.1.2"
+    },
+    {
+      "id": "languagereload",
+      "name": "Language Reload",
+      "description": "Reduces load times and adds fallbacks for languages.",
+      "version": "1.7.7+26.1.2"
+    },
+    {
+      "id": "lithium",
+      "name": "Lithium",
+      "description": "Lithium is a free and open-source optimization mod for Minecraft which makes a wide range of performance improvements to the game.",
+      "version": "0.24.6+mc26.1.2"
+    },
+    {
+      "id": "melody",
+      "name": "Melody",
+      "description": "OpenAL-based library mod to play background music.",
+      "version": "1.0.16"
+    },
+    {
+      "id": "moc",
+      "name": "Modpack Option Control",
+      "description": "An mod allowing atomic option management for modpack makers",
+      "version": "0.8.1"
+    },
+    {
+      "id": "modernfix",
+      "name": "ModernFix",
+      "description": "Egregious, yet effective performance improvements for modern Minecraft",
+      "version": "5.27.19-build.1"
+    },
+    {
+      "id": "modmenu",
+      "name": "Mod Menu",
+      "description": "Adds a mod menu to view the list of mods you have installed.",
+      "version": "18.0.0"
+    },
+    {
+      "id": "moreculling",
+      "name": "More Culling",
+      "description": "Processes main resources.",
+      "version": "1.7.2"
+    },
+    {
+      "id": "placeholder-api",
+      "name": "Placeholder API",
+      "description": "Simple api for mods allowing for user friendly formatting and universal placeholders!",
+      "version": "3.0.0+26.1"
+    },
+    {
+      "id": "quick-pack",
+      "name": "quick-pack",
+      "description": "Improve datapack / resourcepack zip file loading times",
+      "version": "1.3.2"
+    },
+    {
+      "id": "rrls",
+      "name": "Remove Reloading Screen",
+      "description": "Makes resource packs load in the background, allowing you to do other things while waiting!",
+      "version": "5.2.6+mc.26.1"
+    },
+    {
+      "id": "shulkerboxtooltip",
+      "name": "Shulker Box Tooltip",
+      "description": "What's in my shulker box?",
+      "version": "5.3.0+26.1.1"
+    },
+    {
+      "id": "simpleskinswapper",
+      "name": "Simple Skin Swapper",
+      "description": "Swap your skin on the fly with a radial wheel or carousel. Supports per-server commands for real-time updates without reconnecting.",
+      "version": "0.7.0-26.1.2"
+    },
+    {
+      "id": "skyboxify",
+      "name": "Skyboxify",
+      "description": "A skybox mod that allows you to use OptiFine skies in Fabric 1.21+",
+      "version": "3.2"
+    },
+    {
+      "id": "sodium",
+      "name": "Sodium",
+      "description": "Sodium is a powerful rendering engine for Minecraft which greatly improves frame rates and micro-stutter, while fixing many graphical issues",
+      "version": "0.9.1+mc26.1.2"
+    },
+    {
+      "id": "sspb",
+      "name": "Sodium Shadowy Path Blocks",
+      "description": "SSPB reintroduces vanilla-like smooth lighting to non-full blocks (e.g. dirt paths and how they have dark shading when directly next to a full block) when using Sodium.",
+      "version": "7.0.0"
+    },
+    {
+      "id": "yet_another_config_lib_v3",
+      "name": "YetAnotherConfigLib",
+      "description": "YetAnotherConfigLib (yacl) is just that. A builder-based configuration library for Minecraft.",
+      "version": "3.9.6+26.1-fabric"
+    },
+    {
+      "id": "zoomify",
+      "name": "Zoomify",
+      "description": "A zoom mod with infinite customizability.",
+      "version": "2.16.1+26.1"
+    }
+  ]
+}
