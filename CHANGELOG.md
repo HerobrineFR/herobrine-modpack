@@ -1,5 +1,50 @@
 # Herobrine Modpack Changelog
 
+## 5.2.1
+
+
+### Mods mis a jour:
+- Autospeller (1.7.0 → 1.7.1)
+- Modpack Option Control (0.8.1 → 0.9.0)
+
+## 5.2.0
+
+
+### Mods ajoutés:
+- Berlioz (1.0.0)
+- CraftEngine Client Mod (26.7.1)
+
+### Mods mis a jour:
+- AsyncParticles (26.1.2.0-alpha.1 → 26.1.2.9)
+- Controlling (26.1.2.4 → 26.1.2.7)
+- Crash Assistant (1.11.11 → 1.11.12)
+- Gnetum (4.5.1+26.1.2-fabric → 4.6.5+26.1.2-fabric)
+- Ixeris (4.5.2+26.1.2-fabric → 4.6.11+26.1.2-fabric)
+- Autospeller (1.6.0 → 1.7.0)
+- Chat Heads (1.2.5 → 1.3.2)
+- Chat Patches (8.0-alpha.11 → 8.0.0)
+- Cubes Without Borders (4.1.0+26.1 → 5.0.0+26.1)
+- Entity Model Features (3.2.4 → 3.3.12)
+- Entity Texture Features (7.1 → 7.2.7)
+- EntityCulling (1.10.5 → 1.12.1)
+- Fabric API (0.155.2+26.1.2 → 0.155.3+26.1.2)
+- Fabric Language Kotlin (1.13.13+kotlin.2.4.10 → 1.14.2+kotlin.2.4.21)
+- FancyMenu (3.9.8 → 3.10.0)
+- HB Tweaks (2.2.4 → 2.11.0)
+- Iris (1.11.2+mc26.1.2 → 1.11.4+mc26.1.2)
+- LambDynamicLights (4.11.0+26.1.2 → 4.11.2+26.1.2)
+- Language Reload (1.7.7+26.1.2 → 1.7.8+26.1.2)
+- Lithium (0.24.6+mc26.1.2 → 0.24.7+mc26.1.2)
+- Mod Menu (18.0.0 → 18.0.2)
+- More Culling (1.7.2 → 1.7.4)
+- quick-pack (1.3.2 → 1.5.1)
+- Shulker Box Tooltip (5.3.0+26.1.1 → 5.4.3+26.1.1)
+- Simple Skin Swapper (0.7.0-26.1.2 → 0.12.0-26.1.2)
+- Skyboxify (3.2 → 3.4)
+- Sodium (0.9.1+mc26.1.2 → 0.9.2+mc26.1.2)
+- YetAnotherConfigLib (3.9.6+26.1-fabric → 3.9.7+26.1-fabric)
+- Zoomify (2.16.1+26.1 → 2.17.0+mc26.1.2)
+
 ## 5.1.1
 
 

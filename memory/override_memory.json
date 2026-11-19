@@ -438,5 +438,33 @@
   "temp/mrpack/overrides/hs_err_pid1420.log": {
     "status": "EXCLUDE",
     "type": "file"
+  },
+  "temp/mrpack/overrides/config/berlioz": {
+    "status": "EXCLUDE",
+    "type": "directory"
+  },
+  "temp/mrpack/overrides/config/moc/patches": {
+    "status": "INCLUDE",
+    "type": "directory"
+  },
+  "temp/mrpack/overrides/hs_err_pid28297.log": {
+    "status": "EXCLUDE",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/craftengine": {
+    "status": "TEMP",
+    "type": "directory"
+  },
+  "temp/mrpack/overrides/.voxy": {
+    "status": "EXCLUDE",
+    "type": "directory"
+  },
+  "temp/mrpack/overrides/config/fabric_loader_dependencies.json": {
+    "status": "TEMP",
+    "type": "file"
+  },
+  "temp/mrpack/overrides/config/voxy-config.json": {
+    "status": "EXCLUDE",
+    "type": "file"
   }
 }
